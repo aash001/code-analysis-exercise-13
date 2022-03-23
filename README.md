@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-|(Mary, Smith, 45)|{firstName: Mary lastName: Smith age: 45}| 
-|(John, Smith, 47)|{firstName: John lastName: Smith age: 47}| 
-|(Michael, Smith, 12)|{firstName: Michael lastName: Smith age: 12}| 
+|("Mary", "Smith", 45)|{firstName: "Mary", lastName: "Smith", age: 45}| 
+|("John", "Smith", 47)|{firstName: "John", lastName: "Smith", age: 47}| 
+|("Michael","Smith", 12)|{firstName: "Michael", lastName: "Smith", age: 12}| 
 
 <table>
   <tr>
